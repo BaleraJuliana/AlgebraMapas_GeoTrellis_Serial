@@ -1,5 +1,6 @@
 > **Project status:** complete :heavy_check_mark: </br>
-> **Author:** Juliana Marino Balera :busts_in_silhouette:
+> **Author:** Juliana Marino Balera :busts_in_silhouette: </br>
+> **Year:** 2017 :date:
 
 # Álgebra de mapas com o framework GeoTrellis :earth_americas:
 
